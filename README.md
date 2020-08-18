@@ -1,2 +1,2 @@
 # GitIDEA
-Git与IDEA的使用
+在IDEA上使用Git
